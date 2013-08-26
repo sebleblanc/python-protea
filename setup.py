@@ -35,7 +35,7 @@ setup(name='Protea',
 
           "License :: OSI Approved :: MIT License",
           
-          "Operating System :: POSIX :: Linux"
+          "Operating System :: POSIX :: Linux",
           "Operating System :: Microsoft :: Windows",
       ]
 )
