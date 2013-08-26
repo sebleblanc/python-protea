@@ -21,4 +21,4 @@ interface (that will in turn get opened using the pyserial library), or a
 serial interface object that supports `read`, `write`, `flushInput` and
 `flushOutput` methods.
 
-
+Protea, 4.24C and ne24.24M are trademarks of Ashly Audio Inc.
