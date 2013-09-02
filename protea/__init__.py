@@ -121,7 +121,7 @@ class P424C(Protea):
 
         return status
 
-    def __init__(self, serial_interface, midi_channel):
+    def __init__(self, serial_interface, midi_channel=1):
         if not ( 1 <= midi_channel <= 16):
             raise ValueError("The midi_channel value must be between 1 and 16")
 
